@@ -123,8 +123,3 @@ jobs:
     secrets: inherit
     with:
       issue-number: ${{ github.event.issue.number }}
-
-
-    uses: ./.github/workflows/3-1-ducky-start.yml
-    secrets: inherit    with:
-      issue-number: ${{ github.event.issue.number }}
