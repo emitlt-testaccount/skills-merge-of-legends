@@ -3,10 +3,8 @@ The clouds pause as the pipes of Codia flow once more.
 <br/>
 Flashes of lightening spark that a new season has begun...
 You indeed see as I do. Take the **Goggles of Insight** to guide you.
-</p>
 **SCROLL DOWN TO GET YOUR QR CODE FOR POINTS**
-
----
+</p>
 
 <p align="center">
 <img height="360px" alt="Adventurer holding the Goggles of Insight in the air." src="../images/adventurer-goggles-of-insight.png" />
