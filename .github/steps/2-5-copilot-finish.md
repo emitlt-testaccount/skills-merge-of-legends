@@ -4,7 +4,7 @@ The clouds pause as the pipes of Codia flow once more.
 Flashes of lightening spark that a new season has begun...
 You indeed see as I do. Take the **Goggles of Insight** to guide you.
 </p>
-
+**SCROLL DOWN TO GET YOUR QR CODE FOR POINTS** 
 ---
 
 <p align="center">
